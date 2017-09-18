@@ -1,5 +1,5 @@
 
-<div class="post-body"><div class="date-header"><span itemprop="author" class="byline-author" itemscope="" itemtype="http://schema.org/Person">Por <span itemprop="name">Elbrinner</span> hace </span><span itemprop="datePublished" content="2017-09-05 14:49:20">12 días, 20 horas, 8 minutos</span></div><p itemprop="articleBody"></p><p>Cuando se empieza a desarrollar con Xamarin y buscamos tutoriales por internet vemos una seria patrones de diseño, buenas prácticas y siglas que dar algo de respecto cuando no lo conocemos, como puede ser MVVM, inyección de dependencias, contenedores IOC, converters, command, binding, custom presenter y etc…</p>
+<div class="post-body"><div class="date-header"><span itemprop="author" class="byline-author" itemscope="" itemtype="http://schema.org/Person"> </div><p itemprop="articleBody"></p><p>Cuando se empieza a desarrollar con Xamarin y buscamos tutoriales por internet vemos una seria patrones de diseño, buenas prácticas y siglas que dar algo de respecto cuando no lo conocemos, como puede ser MVVM, inyección de dependencias, contenedores IOC, converters, command, binding, custom presenter y etc…</p>
 
 <p>La parte buena es que de forma inicial existen frameworks como MvvmCross que ofrece toda la arquitectura inicial para empezar sin tener que conocer cada pieza al detalle desde el principio.</p>
 
@@ -238,12 +238,7 @@
 
 <p>&nbsp;</p>
 
-<pre><code class="hljs http">
-
-<span class="undefined">    
-        
-    
-</span></code></pre>
+<p><img alt="" src="/img/13_4.PNG"></p>
 
 <p>&nbsp;</p>
 
@@ -345,7 +340,7 @@
 
 <p>&nbsp;</p>
 
-<p>Establecemos el Proyecto de Base.UWP como proyecto de inicio y le damos la opción de implementar la solución, con esto debemos ver una pantalla en blanco y la configuración ya está completada. Para iguala la pantalla vamos a modificar nuestra vista para agregar 2 campos para que se muestre lo mismo que en los proyectos de IOS y Android.</p>
+<p>Establecemos el Proyecto de Base.UWP como proyecto de inicio y le damos la opción de implementar la solución, con esto debemos ver una pantalla en blanco y la configuración base ya está completada. Para iguala la pantalla vamos a modificar nuestra vista para agregar 2 campos para que se muestre lo mismo que en los proyectos de IOS y Android.</p>
 
 <p><img alt="" src="/img/13_6.PNG"></p>
 
